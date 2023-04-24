@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mrvab
-- 👀 I’m interested in AI, Game devlopment, Free Money XD
-- 🌱 I’m currently learning how to smoke Properly
+- 👀 I’m interested in Backend Development, REST API's,AWS,Node.js,MySQL
+- 🌱 Currently I am learnig about cloud services.
 - 💞️ I’m looking to collaborate on many Things
-- 📫 How to reach me I dont know.
+- 📫 you can contact me via mail vaibhavrajputvns@gmail.com
 
 <!---
 Mrvab/Mrvab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
